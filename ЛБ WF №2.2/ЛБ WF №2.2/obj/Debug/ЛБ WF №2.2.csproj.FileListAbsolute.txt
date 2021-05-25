@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ WF №2.2.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ_WF__2._2.Form1.resources
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ_WF__2._2.Form2.resources
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ_WF__2._2.Properties.Resources.resources
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ WF №2.2.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ WF №2.2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\bin\Debug\ЛБ WF №2.2.exe.config
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\bin\Debug\ЛБ WF №2.2.exe
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\bin\Debug\ЛБ WF №2.2.pdb
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ WF №2.2.exe
+C:\Users\Александр\source\repos\ЛБ WF №2.2\ЛБ WF №2.2\obj\Debug\ЛБ WF №2.2.pdb
