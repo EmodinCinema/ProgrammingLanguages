@@ -1,0 +1,14 @@
+F:\лаба 2\лаба 2\bin\Debug\лаба 2.exe.config
+F:\лаба 2\лаба 2\bin\Debug\лаба 2.exe
+F:\лаба 2\лаба 2\bin\Debug\лаба 2.pdb
+F:\лаба 2\лаба 2\obj\Debug\лаба 2.csprojAssemblyReference.cache
+F:\лаба 2\лаба 2\obj\Debug\лаба 2.csproj.CoreCompileInputs.cache
+F:\лаба 2\лаба 2\obj\Debug\лаба 2.exe
+F:\лаба 2\лаба 2\obj\Debug\лаба 2.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\bin\Debug\лаба 2.exe.config
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\bin\Debug\лаба 2.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\bin\Debug\лаба 2.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\obj\Debug\лаба 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\obj\Debug\лаба 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\obj\Debug\лаба 2.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 2\лаба 2\obj\Debug\лаба 2.pdb

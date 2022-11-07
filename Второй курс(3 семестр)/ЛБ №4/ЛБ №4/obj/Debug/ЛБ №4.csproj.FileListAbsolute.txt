@@ -1,0 +1,14 @@
+D:\Desktop\лабы\лаба 4\лаба 4\bin\Debug\лаба 4.exe.config
+D:\Desktop\лабы\лаба 4\лаба 4\bin\Debug\лаба 4.exe
+D:\Desktop\лабы\лаба 4\лаба 4\bin\Debug\лаба 4.pdb
+D:\Desktop\лабы\лаба 4\лаба 4\obj\Debug\лаба 4.csprojAssemblyReference.cache
+D:\Desktop\лабы\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.CoreCompileInputs.cache
+D:\Desktop\лабы\лаба 4\лаба 4\obj\Debug\лаба 4.exe
+D:\Desktop\лабы\лаба 4\лаба 4\obj\Debug\лаба 4.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\bin\Debug\лаба 4.exe.config
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\bin\Debug\лаба 4.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\bin\Debug\лаба 4.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\obj\Debug\лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\obj\Debug\лаба 4.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 4\лаба 4\obj\Debug\лаба 4.pdb

@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\5\5\bin\Debug\5.exe.config
+C:\Users\Админ\source\repos\5\5\bin\Debug\5.exe
+C:\Users\Админ\source\repos\5\5\bin\Debug\5.pdb
+C:\Users\Админ\source\repos\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\5\5\obj\Debug\5.exe
+C:\Users\Админ\source\repos\5\5\obj\Debug\5.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\bin\Debug\5.exe.config
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\bin\Debug\5.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\bin\Debug\5.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\obj\Debug\5.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\лаба 5\5\obj\Debug\5.pdb
