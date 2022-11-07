@@ -1,0 +1,14 @@
+D:\Desktop\языки\синглитон\синглитон\bin\Debug\синглитон.exe.config
+D:\Desktop\языки\синглитон\синглитон\bin\Debug\синглитон.exe
+D:\Desktop\языки\синглитон\синглитон\bin\Debug\синглитон.pdb
+D:\Desktop\языки\синглитон\синглитон\obj\Debug\синглитон.csprojAssemblyReference.cache
+D:\Desktop\языки\синглитон\синглитон\obj\Debug\синглитон.csproj.CoreCompileInputs.cache
+D:\Desktop\языки\синглитон\синглитон\obj\Debug\синглитон.exe
+D:\Desktop\языки\синглитон\синглитон\obj\Debug\синглитон.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\bin\Debug\синглитон.exe.config
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\bin\Debug\синглитон.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\bin\Debug\синглитон.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\obj\Debug\синглитон.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\obj\Debug\синглитон.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\obj\Debug\синглитон.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\синглитон\синглитон\obj\Debug\синглитон.pdb
