@@ -1,0 +1,14 @@
+D:\Desktop\лабы\фабрики\фабрики\bin\Debug\фабрики.exe.config
+D:\Desktop\лабы\фабрики\фабрики\bin\Debug\фабрики.exe
+D:\Desktop\лабы\фабрики\фабрики\bin\Debug\фабрики.pdb
+D:\Desktop\лабы\фабрики\фабрики\obj\Debug\фабрики.csprojAssemblyReference.cache
+D:\Desktop\лабы\фабрики\фабрики\obj\Debug\фабрики.csproj.CoreCompileInputs.cache
+D:\Desktop\лабы\фабрики\фабрики\obj\Debug\фабрики.exe
+D:\Desktop\лабы\фабрики\фабрики\obj\Debug\фабрики.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\bin\Debug\фабрики.exe.config
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\bin\Debug\фабрики.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\bin\Debug\фабрики.pdb
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\obj\Debug\фабрики.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\obj\Debug\фабрики.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\obj\Debug\фабрики.exe
+C:\Users\User\source\repos\Лабораторные работы за второй курс\фабрики\фабрики\obj\Debug\фабрики.pdb
